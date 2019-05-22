@@ -1,0 +1,3 @@
+rootProject.name = 'ez_pay_3672'
+
+include ':app'

@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT ez_pay_3672.wsgi:application
